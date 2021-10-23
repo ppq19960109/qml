@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SerialArea.qml</file>
+    </qresource>
+</RCC>
